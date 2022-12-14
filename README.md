@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Izhan Abdullah</h1>
-<h3 align="center">I'm interested in Ethical Hacking and Web Development</h3>
+<h3 align="center">I'm interested in Artificial Intelligence and Web Development</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 
-- 🌱 I’m currently **pursuing a B.Tech in CSE**
+- 🌱 I’m currently **pursuing a B.Tech in Computer Science Engineering**
 
 - 📫 Reach me at **izhanabdullah2003@gmail.com**
 
