@@ -1,5 +1,5 @@
 <h1 align="center">Hey!👋 I'm Izhan Abdullah</h1>
-<h3 align="center">🚀 Data Aficionado | Turning Complex Data into Actionable Insights with Scalable Engineering Solutions.</h3>
+<h3 align="center">🚀 Data Engineer | Turning Complex Data into Actionable Insights with Scalable Engineering Solutions.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
@@ -21,10 +21,6 @@
 📫 **Reach Me**
 - 📧 Email: izhanabdullah2003@gmail.com
 
-📄 **Experiences**
-- 👨‍💻 Data Engineer at Mactores.
-- 🔧 Built scalable ETL pipelines, performed data transformations, and integrated large datasets for enterprise solutions.
-- 📈 Hands-on experience with Databricks, SQL, Python, and cloud services like AWS.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
