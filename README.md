@@ -1,5 +1,5 @@
 <h1 align="center">Hey!👋 I'm Izhan Abdullah</h1>
-<h3 align="center">🚀 Data Engineer | Turning Complex Data into Actionable Insights with Scalable Engineering Solutions.</h3>
+<h3 align="center"> Data Engineer | Turning Complex Data into Actionable Insights with Scalable Engineering Solutions.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/abdullahizhan" target="blank"><img src="https://img.shields.io/twitter/follow/abdullahizhan?logo=twitter&style=for-the-badge" alt="abdullahizhan" /></a> </p>
 
 🔭 **Currently**
-- 💼 Working as a Data Engineer at Mactores.
+- 💼 Ex - Data Engineer at Mactores.
 - 📊 Specializing in Big Data technologies like Databricks and data warehousing.
 - ⚙️ Building scalable ETL pipelines for efficient data processing.
 - 👥 Open to collaborations on data engineering and cloud solutions.
